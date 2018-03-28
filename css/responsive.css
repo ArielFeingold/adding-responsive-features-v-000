@@ -73,7 +73,8 @@
   }
 
   #navbar nav a.menu-icon {
-    display: inline-block;;
+    display: block;
+    float: left;
   }
 
   #navbar nav a {
