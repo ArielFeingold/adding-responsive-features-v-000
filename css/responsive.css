@@ -71,4 +71,12 @@
     -webkit-column-count: 1;
     column-count: 1;
   }
+
+  #navbar nav a.menu-icon {
+    display: block;
+  }
+
+  #navbar nav a {
+    display: none;
+  }
 }
